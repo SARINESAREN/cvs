@@ -1,7 +1,7 @@
 <html>
 <body>
 
- <img src="D:\Image"  alt ="not internet" width="110px" height="130px"> 
+ <img src="D:\Image\picturen.jpg"  width="110px" height="130px"> 
 
 <h3>INTRODUCE </h3>
 <P>My name is SARINE SAREN ,I was born in Po Ram Bon village Ponley commune Phnom Srok district and BMC province.</p>
